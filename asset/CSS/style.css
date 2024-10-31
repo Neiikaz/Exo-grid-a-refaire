@@ -8,6 +8,7 @@
 body{
     background-color: rgba(3, 62, 85, 0.589);
 }
+/* Responsive */
 @media (max-width:1024px){
     .grid-container{
         grid-template-areas:
@@ -36,6 +37,7 @@ body{
 .footer{
     background-color: rgba(3, 62, 85, 0.342);
 }
+/* suppresion couleurs des liens et puces */
 ul{
     list-style-type: none;
     padding-left: 0;
